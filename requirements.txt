@@ -4,4 +4,3 @@ mediapipe==0.10.11
 opencv-python==4.8.1.78
 python-multipart
 numpy==1.24.3
-
